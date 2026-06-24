@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <nav className="navbar bg-success d-flex" style={{ width: '100%' }}>
-        <h2 className="text-warning">MASUD-FRONTEND DEVELOPER</h2>
+        <h2 className="text-warning">   MASUD-FRONTEND DEVELOPER</h2>
         <ul className="nav gap-3 m-0">
           <li><a className="nav-link text-light" href="#about">About</a></li>
           <li><a className="nav-link text-light" href="#skills">Skills</a></li>
@@ -17,10 +17,10 @@ function App() {
           <li><a className="nav-link text-light" href="#contact">Contact</a></li>
         </ul>
       </nav>
+       <h1 className="text-success text-center shadow-sm p-3">PORTFOLIO</h1>
+      <marquee className="text-center text-success fs-1" scrollamount="15">***WELCOME TO MY PORTFOLIO***WELCOME TO MY PORTFOLIO***WELCOME TO MY PORTFOLIO***</marquee>
 
-      <h1 className="text-center text-light">Welcome to My Portfolio</h1>
-
-      <h4 className="intro text-dark bg-secondary">
+      <h4 className="intro text-success col-12 col-md-6 shadow-lg p-3">
         Hey there! I am Masud, a passionate web developer with a love for creating
         beautiful and functional websites.
         

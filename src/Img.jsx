@@ -13,38 +13,38 @@ function Img() {
 
         {/* Card 1 */}
         <div
-          className="Card Card1 bg-secondary text-warning p-3"
+          className="Card Card1 shadow-lg text-danger p-3"
           style={{ width: "18rem", borderRadius: "60px" }}
         >
           <div className="card-body text-center">
             <h1 className="card-title fw-bold">About myself</h1>
             <p className="card-text">Frontend Web Developer</p>
             <h2>Expert in Creating Beautiful Modern Websites</h2>
-            <p>E-commerce Websites, Business Websites</p>
-            <p>I can make Landing Pages</p>
-            <p>Expert in responsive design</p>
-            <p>Expert in restaurant websites</p>
+            <h4>E-commerce Websites, Business Websites</h4>
+            <h4>I can make Landing Pages</h4>
+            <h4>Expert in responsive design</h4>
+            <h4>Expert in restaurant websites</h4>
           </div>
         </div>
 
         {/* Card 2 */}
         <div
-          className="Card Card2 bg-secondary text-warning p-3"
+          className="Card Card2 shadow-lg text-danger p-3"
           style={{ width: "18rem", borderRadius: "60px" }}
         >
           <div className="card-body text-center">
-            <marquee direction="left">MD MASUD RANA-REACT DEVELOPER/ FRONTEND DEVELOPER</marquee>
-            <p>Now I am studying at Rangpur Govt Polytechnic Institute.</p>
-            <p>Department of Computer Science and Technology</p>
-            <p>Still learning full stack Web developmant</p>
-            <p> I have experience of Frontend Project Work</p>
+            <marquee className="fs-1"direction="left">MD MASUD RANA-REACT DEVELOPER/ FRONTEND DEVELOPER</marquee>
+            <h3>Now I am studying at Rangpur Govt Polytechnic Institute.</h3>
+            <h4>Department of Computer Science and Technology</h4>
+            <h4>I am Still learning full stack Web developmant</h4>
+            <h4> I have experienced of Frontend Project Work</h4>
           </div>
         </div>
         </div>
         <br></br>
         {/* Card 3 */}
            <div>
-                 <div className="Card bg-secondary text-warning p-3  d-flex flex-wrap gap-3 justify-content-center" style={{width:"100%" ,borderRadius: "50px"}}>
+                 <div className="Card shadow-lg text-primary p-3  d-flex flex-wrap gap-3 justify-content-center" style={{width:"100%" ,borderRadius: "50px"}}>
                <h2>My Skills:</h2>
                <br></br>
                <h3>I am expert on HTML, CSS, JAVASCRIPT, BOOTSTRAP, GIT & GITHUB and REACT</h3>

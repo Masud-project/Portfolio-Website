@@ -1,9 +1,9 @@
 function Contact() {
     return(
-        <div>
+        <div className="shadow-lg p-3 text-primary">
         <h1>Contact</h1>
         <h2>You can contact with me for building your project/webite. My Github, Whatsapp,Facebook id, Email link is here</h2>
-        <div className="mb-3">
+        <div className="mb-3 fs-5">
         <a
           href="https://github.com/dashboard"
           target="_blank"
