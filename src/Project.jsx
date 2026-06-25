@@ -5,7 +5,7 @@ return (
     <p>I have made some project, My previous project link is 
         <span>
             <a className="text-success text-bold fs-5" href="masud-rana-nursery-masud-projects-projects.vercel.app
-">***NURSERY-PROJECT***</a>
+"target="_blank"  rel="noopener noreferrer">***NURSERY-PROJECT***</a>
         </span>
     </p>
     <p>My github link is 
