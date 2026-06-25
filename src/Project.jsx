@@ -4,8 +4,7 @@ return (
         <h5> Every types of Website I can make. Day by day I update my skills. Also, I have experience of using AI tools for looking attractive my website </h5>
     <p>I have made some project, My previous project link is 
         <span>
-            <a className="text-success text-bold fs-5" href="masud-rana-nursery-masud-projects-projects.vercel.app
-"target="_blank"  rel="noopener noreferrer">***NURSERY-PROJECT***</a>
+            <a className="text-success text-bold fs-5" href="https://masud-rana-nursery-masud-projects-projects.vercel.app/"target="_blank"  rel="noopener noreferrer">***NURSERY-PROJECT***</a>
         </span>
     </p>
     <p>My github link is 
